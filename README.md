@@ -1,6 +1,6 @@
 # Canvas-Style Portfolio
 
-![Portfolio Demo](portfolio-demo.gif)
+<video src="portfolio-demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 Interactive canvas-style developer portfolio with retro-OS aesthetics, dot-matrix displays, vinyl-card projects, scatter-board layout, and cursor effects. Built with Next.js and Framer Motion.
 
