@@ -1,6 +1,10 @@
 # Canvas-Style Portfolio
 
-<video src="portfolio-demo.mp4" autoplay loop muted playsinline width="100%"></video>
+<a href="https://github.com/Meet-1010/Canvas-Style-Portfolio/raw/main/portfolio-demo.mp4">
+  <img src="portfolio-poster.jpg" alt="Portfolio Demo" width="100%">
+</a>
+
+> *Click the image to watch the launch video*
 
 Interactive canvas-style developer portfolio with retro-OS aesthetics, dot-matrix displays, vinyl-card projects, scatter-board layout, and cursor effects. Built with Next.js and Framer Motion.
 
